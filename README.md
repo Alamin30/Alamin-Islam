@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alamin30" alt="alamin30" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [alamincoder.com](alamincoder.com)
+- 👨‍💻 All of my projects are available at [http://alamincoder.com/](http://alamincoder.com/)
 
 - 📫 How to reach me **alaminbubt85@gmail.com**
 
